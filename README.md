@@ -19,5 +19,5 @@ By using Telegram and World Miniapps, we enable seamless participation in the AI
 3. **[Core](https://github.com/IterateFast-Labs/solana-program-library)**
 
 For more details, please visit the following resources:
-- **Website**: 
+- **Website**: https://sprinkle-target-674.notion.site/Welcome-to-Fission-162ced5614678071b9b9e4a23c3c042e?pvs=4
 - **Hub**: https://hub.xyz/fission
