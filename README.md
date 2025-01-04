@@ -1,3 +1,5 @@
+# Fission team has not yet officially launched their token.
+
 # Solana AI Hackathon Submission
 
 ## Project Overview
