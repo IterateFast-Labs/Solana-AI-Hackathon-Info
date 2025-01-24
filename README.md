@@ -23,3 +23,4 @@ By using Telegram and World Miniapps, we enable seamless participation in the AI
 For more details, please visit the following resources:
 - **Website**: https://sprinkle-target-674.notion.site/Welcome-to-Fission-162ced5614678071b9b9e4a23c3c042e?pvs=4
 - **Hub**: https://hub.xyz/fission
+- **IF Labs Organization**: https://github.com/IterateFast-Labs
