@@ -17,7 +17,7 @@ By using Telegram and World Miniapps, we enable seamless participation in the AI
 
 ## Repositories Used:
 1. **[FrontEnd](https://github.com/IterateFast-Labs/Solana-AI-Hackathon-FrontEnd)**
-2. **[BackEnd](https://github.com/IterateFast-Labs/Solana-AI-Hackathon-BackEnd)**
+2. **[BackEnd](https://github.com/IterateFast-Labs/fission-hub-backend)**
 3. **[Core](https://github.com/IterateFast-Labs/solana-program-library)**
 
 For more details, please visit the following resources:
